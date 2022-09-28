@@ -672,9 +672,8 @@ footer {
     .toggle.on .fa-bars:before{content:"\f00d";font-family:'FontAwesome';}
     .product .slick-prev{right:42%;}
     .product .slick-next{left:60%;}
-    .black-overlay{display:none;}
     ul.menu li { display: block; }
-    .black-overlay { position: fixed; top: 0; left: 0; text-align: left; width: 100%; height: 100%; background: #2c3c13; padding: 50px; display: none;}
+    .black-overlay { position: fixed; top: 0; left: 0; text-align: left; width: 100%; height: 100%; background: #2c3c13; padding: 50px;}
     ul.menu { position: fixed; text-align: left; top: 40px; left: 50px; }
     ul.menu li a { display: block; padding: 14px 0px; }
     ul.menu { position: fixed; text-align: center; top: 0; left: 0; width: 100%; height: 100vh; padding: 50px; }

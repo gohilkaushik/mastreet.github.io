@@ -105,7 +105,6 @@ $('.client__content').slick({
 
 $(".toggle").click(function() {
   $(this).toggleClass("on");
-  $(".black-overlay").slideToggle();
+  $("body").toggleClass('black-overlay');
 });
-
 
